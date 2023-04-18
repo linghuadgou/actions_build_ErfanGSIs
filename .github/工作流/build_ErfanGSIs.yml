@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://gauss-compotacostauto-cn.allawnfs.com/remove-79e4d45b55bf58338f504b0e4832dcf6/component-ota/23/04/04/15a2884fd35f4e16978e2a0fb55e23ae.zip
+  ROM_NAME: ColorOS 
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
